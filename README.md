@@ -1,1 +1,1 @@
-# learn_git
+# this repo is for learning basic git commands
