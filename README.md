@@ -1,1 +1,1 @@
-# this repo is for learning basic git commands
+# changed this message on Feb 21
